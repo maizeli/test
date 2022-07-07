@@ -1,5 +1,5 @@
 package service
 
 func GetName() string {
-	return "Hello,WorldV2!"
+	return "Hello,WorldV3!"
 }

@@ -1,5 +1,5 @@
 package service
 
-func GetName(name string) string {
-	return "name is " + name
+func GetName(name, xing string) string {
+	return "name is " + xing + name
 }

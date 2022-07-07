@@ -1,5 +1,5 @@
 package service
 
-func GetName() string {
-	return "Hello,WorldV4!"
+func GetName(name string) string {
+	return "name is " + name
 }
